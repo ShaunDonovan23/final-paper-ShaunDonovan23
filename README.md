@@ -194,4 +194,4 @@ double knapsackGreedy(Item items[], int n, int W) {
 5. Microsoft Azure (2023). Virtual Machine Scale Sets - Design Considerations. Microsoft Learn. https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-design-overview
 6. 3GPP TS 28.541 (2022). Management and orchestration; 5G Network Resource Model (NRM). 3GPP. https://www.3gpp.org/ftp/Specs/archive/28_series/28.541/
 
-Thank you.
+Thank you
